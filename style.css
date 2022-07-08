@@ -72,6 +72,7 @@
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
+    opacity: 0.95e;
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
@@ -111,7 +112,7 @@
 }
 
 .not-account{
-    color: rgb(160, 160, 160);
+    color: #2C3639;
 }
 
 .link-blue{
